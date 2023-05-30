@@ -7,7 +7,7 @@ This tool is used to compare the Salesforce permission sets of two profiles for 
 NOTE: This tool best works if you are using Visual Studio Code to compare the permissions of users.
 
 ## How to use the tool:
-   1. Start by running the OktaPermissionTool, and opening Okta to both the MIRROR and USER.
+   1. Start by running the Okta Scraper.py, and opening Okta to both the MIRROR and USER.
    2. On Both Profiles click on the pencil icon to edit the Salesforce Instance.
    3. Next, we will focus on one user, the MIRROR. Open the dev tools for the browser (There are a couple ways to do this, and the easiest way is to press F12 [FN+ F12]). 
    4. In the top left of this panel you should see a mouse/pointer icon surrounded a box. Click this to highlight areas of the webpage
